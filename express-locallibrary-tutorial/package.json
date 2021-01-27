@@ -1,8 +1,11 @@
 {
   "name": "express-locallibrary-tutorial",
   "version": "0.0.0",
-  "author":"BlackFury",
-  "description":"Local Library",
+  "author": "BlackFury",
+  "description": "Local Library",
+  "engines": {
+    "node": "10.23.1"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
